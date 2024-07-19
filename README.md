@@ -1,5 +1,4 @@
 # TIME SERIES ile ilgili hazir ve kendin yazarak modelleri gosterme 
-# Preview'da tum kod gorunmuyor lutfen detaylar icin indiriniz .
 
 #### TIME SERIES hakkinda temel bilgiler level,trend,seasonal ve irregular gibi katmanlari ve genel bir "statsmodel" icerisindeki hazir algoritmalari da anlatacagim videom
 
