@@ -1,7 +1,8 @@
 # TIME SERIES ile ilgili hazir ve kendin yazarak modelleri gosterme
 
-### excelde bile kolay olan bazi durumlar dataframe icin bir tik daha ugrastirici olabiliyor.
 #### TIME SERIES hakkinda temel bilgiler level,trend,seasonal ve irregular gibi katmanlari ve genel bir "statsmodel" icerisindeki hazir algoritmalari da anlatacagim videom
+
+-> excelde bile kolay olan bazi durumlar dataframe icin bir tik daha ugrastirici olabiliyor.
 
 #https://www.youtube.com/@fedai1882
 
