@@ -9,7 +9,7 @@
 ### 10 gun icerisinde kanalimda olacaktir.
 
 
-## ! veriyi train ve test diye ayirdiktan sonra bazi degerler rollingden dolayi nan ve ilk basi kayiyiro yani 30 test yerine 30=rolling oluyor bu durumda yanlis yaptiysam lutfen uyarin iyi kodlamalar :))
+## ! veriyi train ve test diye ayirdiktan sonra bazi degerler rollingden dolayi nan ve head,tail kayiyor yani 30 test yerine 30-rolling oluyor bu durumda yanlis yaptiysam lutfen uyarin iyi kodlamalar :))
 
 
 ![Screenshot_19-7-2024_18352_localhost](https://github.com/user-attachments/assets/7d343af5-fbaf-4a3b-862e-4fe56466c9a3)
